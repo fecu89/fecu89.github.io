@@ -1,3 +1,4 @@
 baseURL = 'https://fecu89.github.io/'
 languageCode = 'ko-kr'
 title = '힘센캥거루'
+theme = 'hugo-theme-docport'
